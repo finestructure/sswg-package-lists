@@ -2,7 +2,7 @@
   "https://github.com/apple/swift-distributed-actors.git",
   "https://github.com/apple/swift-openapi-generator.git",
   "https://github.com/discordbm/discordbm.git",
-  "https://github.com/hummingbird-project/hummingbird.git"
+  "https://github.com/hummingbird-project/hummingbird.git",
   "https://github.com/lovetodream/oracle-nio.git",
   "https://github.com/mattpolzin/OpenAPIKit.git",
   "https://github.com/mordil/swift-redis-nio-client.git",
