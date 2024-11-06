@@ -5,6 +5,6 @@
   "https://github.com/grpc/grpc-swift.git",
   "https://github.com/swift-server/async-http-client.git",
   "https://github.com/vapor/jwt-kit.git",
-  "https://github.com/vapor/nio-postgres.git",
+  "https://github.com/vapor/postgres-nio.git",
   "https://github.com/vapor/vapor.git",
 ]
